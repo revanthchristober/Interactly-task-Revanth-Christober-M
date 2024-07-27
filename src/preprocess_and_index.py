@@ -4,8 +4,7 @@ import openai
 from pymongo import MongoClient
 
 # Set your OpenAI API key
-# openai.api_key = 'your-openai-api-key'
-openai.api_key = 'sk-proj-hoTILlyXBr0xZrycnwCgT3BlbkFJD58jtXZgkNTayPyJqJca'
+openai.api_key = 'your-openai-api-key'
 
 # Load candidate data from MongoDB
 client = MongoClient('mongodb://localhost:27017/')
