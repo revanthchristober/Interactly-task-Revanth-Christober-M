@@ -4,8 +4,7 @@ import openai
 from transformers import GPT2Tokenizer, GPT2LMHeadModel
 
 # Set your OpenAI API key
-# openai.api_key = 'your-openai-api-key'
-openai.api_key = 'sk-proj-hoTILlyXBr0xZrycnwCgT3BlbkFJD58jtXZgkNTayPyJqJca'
+openai.api_key = 'your-openai-api-key'
 
 # Load the FAISS index and candidate data
 index = faiss.read_index('/workspaces/indexify-image-object-detection-reverse-search/Interactly_task_Profile_Matching/models/candidates.index')
