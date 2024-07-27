@@ -1,0 +1,9 @@
+pandas
+openai==0.27.0
+transformers
+accelerate
+transformers[torch]
+faiss-cpu
+Flask
+pymongo
+torch
