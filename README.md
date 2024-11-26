@@ -1,4 +1,4 @@
-# Interactly Profile Matching Task - Data Science Intern
+# **Profile Matcher FAISS OpenAI RAG**
 
 ## Overview
 
@@ -9,8 +9,8 @@ This project implements a profile matching system using a Retrieval-Augmented Ge
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/revanthchristober/Interactly-task-Revanth-Christober-M.git
-cd Interactly-task-Revanth-Christober-M
+git clone https://github.com/revanthchristober/Profile-Matcher-FAISS-OpenAI-RAG.git
+cd Profile-Matcher-FAISS-OpenAI-RAG
 ```
 
 ### 2. Set Up a Virtual Environment
